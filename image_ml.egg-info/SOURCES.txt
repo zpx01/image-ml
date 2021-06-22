@@ -1,0 +1,7 @@
+README.md
+setup.py
+image_ml.egg-info/PKG-INFO
+image_ml.egg-info/SOURCES.txt
+image_ml.egg-info/dependency_links.txt
+image_ml.egg-info/requires.txt
+image_ml.egg-info/top_level.txt
